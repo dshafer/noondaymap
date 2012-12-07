@@ -1,1 +1,1 @@
-var countries = [];
+var noonday_countries = [];

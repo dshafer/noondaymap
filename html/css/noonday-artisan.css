@@ -1,0 +1,43 @@
+div {
+  border: 1px solid red;
+}
+
+.gray{
+  color:gray;
+}
+.bold{
+  font-weight:bold;
+}
+
+.artisan-container {
+  width:100%;
+  height:100%;
+}
+
+.artisan-content{
+  width:100%;
+  height:80%;
+}
+.artisan-image{
+  float:left;
+  width:25%;
+}
+.artisan-content-bio{
+  float:right;
+  width:70%;
+}
+.artisan-content-title{
+  font-weight:bold;
+  font-size:24px;
+}
+.artisan-content-text{
+  font-size:18px;
+}
+.artisan-header{
+  width:100%;
+  height:10%;
+}
+.artisan-footer{
+  width:100%;
+  height:10%;
+}
